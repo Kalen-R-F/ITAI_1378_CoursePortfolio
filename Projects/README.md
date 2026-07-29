@@ -15,6 +15,6 @@ We are using YOLO11 Large for our model because it provided the most consistent 
 
 # How to Run
 
-Step by Step process we took when developing the program
+In this drive folder is the divided up steps we took when developing the program, separated into different notebooks.
 
 https://drive.google.com/drive/folders/1Az2sX6fY5jJ2O6aMfUaFZ2xWbRjn2rWM
