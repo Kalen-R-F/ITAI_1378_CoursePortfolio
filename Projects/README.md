@@ -10,5 +10,5 @@ TBD
 # Key Findings
 I learned a lot about how to train CV models to be able to identify birds on a live camera, then be able to identify what type of bird it is correctly, as knowing the type of bird is very important for what we want to use the data for.
 
-#Technologies Used
+# Technologies Used
 TBD
