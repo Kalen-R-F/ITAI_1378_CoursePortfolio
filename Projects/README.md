@@ -12,3 +12,9 @@ I learned a lot about how to train CV models to be able to identify birds on a l
 
 # Technologies Used
 We are using YOLO11 Large for our model because it provided the most consistent detection on the birds after comparing 6 different models, even outperforming the modern version of itself, YOLO26. We are using a camera for direct video input into the detection model, the cameras native framerate is 25 fps allowing for plenty of data for a bird coming into the picture to be accurately identified.
+
+# How to Run
+
+Step by Step process we took when developing the program
+
+https://drive.google.com/drive/folders/1Az2sX6fY5jJ2O6aMfUaFZ2xWbRjn2rWM
